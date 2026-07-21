@@ -62,3 +62,14 @@ app.*.map.json
 /windows/flutter/ephemeral/
 /linux/flutter/ephemeral/
 /macos/Flutter/ephemeral/
+
+# Flutter
+.dart_tool/
+build/
+
+# Android generated files
+android/build/
+android/.gradle/
+
+# Firebase
+.firebase/
